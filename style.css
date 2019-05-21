@@ -1,0 +1,102 @@
+header {
+    background-color: white;
+    color: grey;
+    font-size: 15px;
+    width: 1000px;
+    padding: 20px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+    height: 25px;
+}
+
+nav {
+    background-color: white;
+    color: grey;
+    font-size: 15px;
+    width: 1000px;
+    padding: 20px;
+    margin-bottom: 5px;
+    height: 25px;
+}
+
+body {
+    background-color: grey;
+    text-align: center;
+    margin: auto;
+    width: 1000px;
+    font-size: 10px;
+}
+
+section {
+    background-color: white;
+    color: grey;
+    font-size: 18px;
+    height: 290px;
+    width: 60%;
+    margin-top: 10px;
+    float: left;
+    overflow: auto;
+    border: 1px solid grey;
+    padding: 10px;
+    margin-bottom: 16px;
+    padding-top: 27px;
+}
+
+aside {
+    background-color: white;
+    color: grey;
+    font-size: 18px;
+    height: 301px;
+    width: 401px;
+    float: right;
+    margin-top: 10px;
+    margin-right: -40px;
+    padding-top: 27px;
+}
+
+article {
+    background-color: grey;
+    color: white;
+    width: 37%;
+    float: left;
+    margin-top: -270px;
+    padding: 114px;
+    margin-left: 12px;
+    padding-top: 32px;
+    height: 95px;
+    font-size: 18px;
+}
+
+h1,h2,h3 {
+    background-color: white;
+    color: grey;
+    font-size: 18px;
+    width: 560px;
+    float: left;
+    margin-top: -182px;
+    margin-left: 31px;
+    height: 40px;
+    padding-top: 21px
+}
+
+p {
+    background-color: white;
+    color: grey;
+    font-size: 18px;
+    width: 560px;
+    float: left;
+    margin-top: -110px;
+    margin-left: 31px;
+    height: 40px;
+    padding-top: 21px;
+}
+
+footer {
+    clear: both;
+    background-color: white;
+    color: grey;
+    font-size: 18px;
+    padding: 20px;
+    width: 1000px;
+    height: 25px;
+}
